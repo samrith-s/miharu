@@ -1,0 +1,12 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "[rust]": {
+    "editor.defaultFormatter": "jinxdash.prettier-rust"
+  },
+  // "rust-analyzer.procMacro.ignored": { "napi-derive": ["napi"] }
+}
